@@ -1,0 +1,10 @@
+[package]
+name = "dds-omg"
+version = "0.1.0"
+authors = ["Travis Gruber <grubertw@gmail.com>"]
+
+[dependencies]
+rand = "0.3.0"
+bytes = "0.4.0"
+futures = "0.1.0"
+tokio-core = "0.1.0"
